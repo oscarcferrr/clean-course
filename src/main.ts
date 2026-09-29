@@ -1,4 +1,6 @@
 import './style.css'
+//import './clean-code/06-classes-c'
+import './code-smells/02-high-coupling'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
